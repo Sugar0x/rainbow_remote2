@@ -1,2 +1,3 @@
 Red is the first colour of the rainbow
 Orange is the seconfd colour of the rainbow
+Yellow is the third colour of the rainbow
